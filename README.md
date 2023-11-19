@@ -66,7 +66,7 @@ binding** by Shashank Yadav, Dhvani Sandip Vora, Durai Sundar, Jaspreet Kaur Dha
 ## Authors
 ### Contributors names and contact info
 + [@Shashank Yadav](https://github.com/xinformatics)
-+ [@Dhvani Vora](https://github.com/dhvani-v)
++ [@Dhvani Vora](https://github.com/d-vora)
 + [@Durai Sundar](https://github.com/TeamSundar)
 + [@Jaspreet Kaur Dhanjal](https://github.com/dhanjal-lab)
 
