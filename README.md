@@ -19,3 +19,8 @@ binding** by Shashank Yadav, Dhvani Sandip Vora, Durai Sundar, Jaspreet Kaur Dha
 * scikit-learn==1.2.2
 
 ## Repository directories & files
+### Embedding Extraction Note: Using ESM1v to generate embeddings of 100 randomly generated peptides using ESM1v takes approximately 17 seconds, model training time may vary from 3 minutes to 3 hours, and predictions involve a quick forward pass lasting up to 3 seconds. These computations were performed on a GPU with 16 GB VRAM, demonstrating the computational efficiency of TCR-ESM. This highlights the feasibility of implementing TCR-ESM for scanning numerous peptides swiftly, aligning to facilitate cognate target identification for T-cell receptors in the context of T-cell therapy development.
++ [`0_ESM_Embeddings_Extractor.ipynb`](0_ESM_Embeddings_Extractor.ipynb) contains code for extraction of embeddings from the ESM1v model using the fair-esm library.
+
+
+
