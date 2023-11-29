@@ -1,4 +1,5 @@
 # TCR-ESM: employing protein language embeddings to predict TCR-peptide-MHC binding
+[![Publication](cover.png)](https://doi.org/10.1016/j.csbj.2023.11.037)
 
 ## Description
 
